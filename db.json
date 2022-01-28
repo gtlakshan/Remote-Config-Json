@@ -10,9 +10,9 @@
 		"privacy_policy_url": "https://sites.google.com/view/blog-news-app-privacy-policy",
 		"publisher_info_url": "https://sites.google.com/view/blog-news-app-publisher-info",
 		"terms_conditions_url": "https://sites.google.com/view/blog-news-app-terms-conditions",
-		"display_page_menu": "true",
+		"display_page_menu": "false",
 		"display_view_on_site_menu": "true",
-		"custom_label_list": "false"
+		"custom_label_list": "true"
 	},
 	"notification": {
 		"fcm_notification_topic": "techcypro",
