@@ -44,18 +44,8 @@
 			"term": "Business",
 			"image": "https://i.ibb.co/N95bRMN/business.png"
 		},
-		{
-			"term": "Tourism",
-			"image": "https://i.ibb.co/sQGk1F0/tourism.png"
-		},
-		{
-			"term": "Politics",
-			"image": "https://i.ibb.co/rZBpg86/politics.png"
-		},
-		{
-			"term": "Food",
-			"image": "https://i.ibb.co/0DRPCCV/food.png"
-		},
+	
+		
 		{
 			"term": "News",
 			"image": "https://i.ibb.co/D9NKn59/news.png"
@@ -64,30 +54,18 @@
 			"term": "World",
 			"image": "https://i.ibb.co/TTDRdFk/world.png"
 		},
+		
+		
 		{
-			"term": "Sports",
-			"image": "https://i.ibb.co/HzhwbkQ/sports.png"
-		},
-		{
-			"term": "Football",
-			"image": "https://i.ibb.co/BL3DJhq/football.png"
-		},
-		{
-			"term": "Technology",
+			"term": "Tech",
 			"image": "https://i.ibb.co/Ryqvcrz/technology.png"
 		},
 		{
 			"term": "Android",
 			"image": "https://i.ibb.co/djfGfqy/android.png"
 		},
-		{
-			"term": "Health",
-			"image": "https://i.ibb.co/s6Y6Prh/health.png"
-		},
-		{
-			"term": "Finance",
-			"image": "https://i.ibb.co/CKFRtFR/finance.png"
-		},
+		
+		
 		{
 			"term": "Entertainment",
 			"image": "https://i.ibb.co/1GRY2PQ/entertainment.png"
@@ -96,9 +74,6 @@
 			"term": "Gadget",
 			"image": "https://i.ibb.co/5s65x4f/gadget.png"
 		},
-		{
-			"term": "Travel",
-			"image": "https://i.ibb.co/0F8dn9G/travel.png"
-		}
+		
 	]
 }
